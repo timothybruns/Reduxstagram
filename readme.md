@@ -1,6 +1,9 @@
-# Learn Redux
+# Reduxstagram
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux implementation mimicking the basic layout of Instagram.
+
+* Built with the help of Wes Bos' excellent tutorial, see below link:
+* https://learnredux.com/ 
 
 ## Running
 
